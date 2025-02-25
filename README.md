@@ -39,4 +39,4 @@ Ini adalah kalkulator berbasis web sederhana yang dibangun menggunakan HTML, CSS
 - Untuk membersihkan layar, tekan `AC`.
 
 - 
-                                                             ##...........Dibuat OLeh Safari.............##
+                         ##...........Dibuat OLeh Safari.............##
