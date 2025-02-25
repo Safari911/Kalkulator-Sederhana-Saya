@@ -37,4 +37,6 @@ Ini adalah kalkulator berbasis web sederhana yang dibangun menggunakan HTML, CSS
 - Untuk menghitung 5 + 3, tekan `5`, `+`, `3`, dan `=`.
 - Untuk menghapus nilai terakhir, tekan `C`.
 - Untuk membersihkan layar, tekan `AC`.
+
+- 
                                                              ##...........Dibuat OLeh Safari.............##
